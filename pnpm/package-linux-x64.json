@@ -1,0 +1,12 @@
+{
+  "pkg": {
+    "assets": [
+      "dist/worker.js",
+      "dist/pnpmrc",
+      "dist/scripts/*",
+      "dist/templates/*"
+    ],
+    "targets": ["node24-linux-x64"],
+    "outputPath": "../linux-x64"
+  }
+}
