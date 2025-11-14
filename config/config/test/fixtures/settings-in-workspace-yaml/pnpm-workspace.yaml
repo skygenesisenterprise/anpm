@@ -1,0 +1,6 @@
+packages: []
+onlyBuiltDependencies:
+  - foo
+sharedWorkspaceLockfile: false
+shamefullyHoist: true
+gitBranchLockfile: true
